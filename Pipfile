@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+aiohttp-jinja2 = "*"
+uvloop = "*"
+aioreloader = "*"
+pyyml = "*"
+asyncpg = "~=0.27.0"
+asyncpgsa = "*"
+psycopg2 = "*"
+django-postgres-createdb = "*"
+pyyaml = "*"
+sqlalchemy = "*"
+switch = "*"
+sql = "*"
+postgres = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

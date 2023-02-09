@@ -1,0 +1,11 @@
+#Our default configuration file
+
+site_name: 'Demo site'
+
+
+database_uri: postgresql://postgres:vikaV1910@localhost:5432/demo
+
+
+
+
+
