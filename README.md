@@ -13,6 +13,7 @@ aiohttp_jinja2
 PostgreSQL 15
 PgAdmin
 
+_______________________________________________________________________
 
 
 Проект можно открыть с помощью команды "python entry.py”.  Убедитесь, что вы находитесь в виртуальном окружении venv ((venv) ila@MacBook-Air-Ila BigSpecialProjectonAiohttp ).
